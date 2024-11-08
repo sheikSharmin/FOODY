@@ -79,7 +79,7 @@ These are the key parameters for FoodyApp.
 | xml            |       |
 | kotlinVersion  | 1.8.0 |
 
-You can clone the repository or download the Zip file [here](https://github.com/MaikolSoro/Foody)
+You can clone the repository or download the Zip file [here](https://github.com/alan/Foody)
 
 # :hammer_and_wrench: Architecture :hammer_and_wrench:
 
@@ -117,7 +117,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 # :handshake: Contact :handshake:
 Have an project? DM me at 👇
 
-Drop a mail to:- maikolsoro.z1998@gmail.com
+Drop a mail to:- 9823008001@klu.ac.in
 
 
 ### Code Standards
@@ -142,7 +142,7 @@ Drop a mail to:- maikolsoro.z1998@gmail.com
 ```
 MIT License
 
-Copyright (c) 2021 Michael Soro Zúñiga
+Copyright (c) 2024 alan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
